@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="paper" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#f7ecd9"/>
+      <stop offset=".65" stop-color="#f7ecd9"/>
+      <stop offset="1" stop-color="#efe0c4"/>
+    </linearGradient>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#241f1c" opacity=".055"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="630" fill="url(#paper)"/>
+  <rect width="1200" height="630" fill="url(#dots)" opacity=".65"/>
+  <rect width="1200" height="18" fill="#c41e3a"/>
+  <circle cx="48" cy="664" r="178" fill="none" stroke="#c41e3a" stroke-width="3" opacity=".08"/>
+  <circle cx="48" cy="664" r="128" fill="none" stroke="#b9812e" stroke-width="2" opacity=".08"/>
+  <text x="72" y="54" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2.3" fill="#9c9086">BEN CAMPBELL × CHILI'S GRILL &amp; BAR</text>
+  <text x="72" y="117" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="2" fill="#8f1329">A TASTING MENU, BUILT FOR THE NEXT</text>
+  <text x="70" y="210" font-family="DejaVu Serif, Georgia, serif" font-size="74" font-weight="700" letter-spacing="-3" fill="#241f1c">Senior Manager,</text>
+  <text x="70" y="282" font-family="DejaVu Serif, Georgia, serif" font-size="76" font-style="italic" font-weight="700" letter-spacing="-3" fill="#c41e3a">Social Media</text>
+  <text x="74" y="336" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" fill="#6b5f55">Strategy, culture, community, operations,</text>
+  <text x="74" y="369" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" fill="#6b5f55">and the receipts to prove it.</text>
+  <line x1="72" y1="499" x2="727" y2="499" stroke="#241f1c" stroke-width="2"/>
+  <text x="72" y="541" font-family="DejaVu Serif, Georgia, serif" font-size="27" font-weight="700" fill="#241f1c">Ben Campbell</text>
+  <text x="72" y="570" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" fill="#6b5f55">Prepared for Chili's Grill &amp; Bar · Coppell, TX</text>
+  <text x="425" y="551" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" font-style="italic" font-weight="700" fill="#8f1329" transform="rotate(-2 470 551)">Life's short. Work happy.</text>
+  <g transform="translate(780 58) rotate(1 170 250)">
+    <rect x="12" y="14" width="350" height="514" rx="5" fill="#241f1c" opacity=".10"/>
+    <rect x="0" y="0" width="350" height="514" rx="5" fill="#fffaf0" stroke="#241f1c" stroke-opacity=".20"/>
+    <line x1="28" y1="67" x2="322" y2="67" stroke="#241f1c" stroke-opacity=".18" stroke-width="2" stroke-dasharray="5 6"/>
+    <text x="175" y="41" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2.4" fill="#9c9086">GUEST CHECK · TABLE 1</text>
+    <text x="28" y="106" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#6b5f55">Audience footprint</text>
+    <text x="320" y="111" text-anchor="end" font-family="DejaVu Serif, Georgia, serif" font-size="31" font-weight="700" fill="#8f1329">6M+</text>
+    <line x1="28" y1="129" x2="322" y2="129" stroke="#241f1c" stroke-opacity=".14" stroke-dasharray="2 4"/>
+    <text x="28" y="170" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#6b5f55">Organic impressions</text>
+    <text x="320" y="175" text-anchor="end" font-family="DejaVu Serif, Georgia, serif" font-size="31" font-weight="700" fill="#8f1329">470M+</text>
+    <line x1="28" y1="193" x2="322" y2="193" stroke="#241f1c" stroke-opacity=".14" stroke-dasharray="2 4"/>
+    <text x="28" y="234" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#6b5f55">Interactions</text>
+    <text x="320" y="239" text-anchor="end" font-family="DejaVu Serif, Georgia, serif" font-size="31" font-weight="700" fill="#8f1329">15M+</text>
+    <line x1="28" y1="257" x2="322" y2="257" stroke="#241f1c" stroke-opacity=".14" stroke-dasharray="2 4"/>
+    <text x="28" y="298" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#6b5f55">Social revenue</text>
+    <text x="320" y="303" text-anchor="end" font-family="DejaVu Serif, Georgia, serif" font-size="30" font-weight="700" fill="#8f1329">$75K+</text>
+    <line x1="28" y1="321" x2="322" y2="321" stroke="#241f1c" stroke-opacity=".14" stroke-dasharray="2 4"/>
+    <text x="28" y="362" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#6b5f55">Years leading social &amp; teams</text>
+    <text x="320" y="367" text-anchor="end" font-family="DejaVu Serif, Georgia, serif" font-size="30" font-weight="700" fill="#8f1329">6+</text>
+    <line x1="28" y1="405" x2="322" y2="405" stroke="#241f1c" stroke-width="3"/>
+    <text x="28" y="444" font-family="DejaVu Serif, Georgia, serif" font-size="19" font-weight="700" fill="#241f1c">Total</text>
+    <text x="322" y="440" text-anchor="end" font-family="DejaVu Serif, Georgia, serif" font-size="20" font-weight="700" fill="#8f1329">Chili's next</text>
+    <text x="322" y="466" text-anchor="end" font-family="DejaVu Serif, Georgia, serif" font-size="20" font-weight="700" fill="#8f1329">Social lead</text>
+  </g>
+  <g transform="translate(1120 42) rotate(18) scale(.52)" opacity=".18">
+    <path fill="#c41e3a" d="M62 18c-3-6-11-9-18-6-2 1-3 3-2 5 1 1 3 2 5 1 3-1 6 0 8 3 5 8 4 20-3 32-8 14-22 24-33 22-5-1-8-5-8-10 0-13 14-27 24-33 2-1 2-3 1-5-1-1-3-2-5-1C17 35 2 52 3 68c1 9 8 16 17 17 15 2 33-10 43-27 9-15 9-30-1-40z"/>
+  </g>
+</svg>
