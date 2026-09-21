@@ -54,7 +54,7 @@
         rgba(8, 7, 6, .43) 100%
       ),
       linear-gradient(180deg, rgba(0, 0, 0, .04), rgba(0, 0, 0, .25)),
-      url("assets/chilis-hero-bg.png");
+      url("chilis-hero-bg.png");
   }
 
   .hero::after {
